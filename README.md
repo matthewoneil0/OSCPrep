@@ -4,3 +4,10 @@ All tools, scripts, and forks of everything I've used to study and prepare for m
 - **Quick-map**: Uses Nmap to run a quick scan of the target and subsequently uses the port listing to more granularly scan each service. Ideal for initially identifying ports at the beginning of examining a machine.
 - **Quick-C2**: Automatically downloads popular tools such as WinPEAS, PowerUp, and other tools you'd we to retrieve while logged on to a victim machine. I'll likely expand this to a number of other useful tools to have hosted and accessible. 
 - **Git-dumper**: Uses basic bash commands to download and rebuild Git repositories which may be unintentionally hosted on victim machines. Specifically useful for web server where a /.git directory id identified. Pulling it down to your local machine helps in examining git logs, etc.
+
+## Useful links I kept coming back to
+**References**
+- [Pentest Monkey Reverse Shell Cheat Sheet](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
+**Wordlists**
+- [Directory Traversal Paths](https://github.com/omurugur/Path_Travelsal_Payload_List/blob/master/Payload/Dp.txt)
+- [SQL Injection Strings](https://github.com/payloadbox/sql-injection-payload-list)
