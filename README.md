@@ -8,6 +8,7 @@ All tools, scripts, and forks of everything I've used to study and prepare for m
 ## Useful links I kept coming back to
 **References**
 - [Pentest Monkey Reverse Shell Cheat Sheet](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
+- [Hashcat Example Hashes](https://hashcat.net/wiki/doku.php?id=example_hashes)
 
 **Wordlists**
 - [Directory Traversal Paths](https://github.com/omurugur/Path_Travelsal_Payload_List/blob/master/Payload/Dp.txt)
